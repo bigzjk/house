@@ -1,6 +1,9 @@
 
 # 精装房验房详细步骤
-``author: Can't be half , date : 2020-07-24``
+``author: Can't be half ``  <br>
+``date : 2020-07-24``
+
+![alt 万科东方传奇三期业主群](./QR.png "万科东方传奇三期业主群")
 
 ## 1.收房日期和形式
 
